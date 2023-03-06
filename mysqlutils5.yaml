@@ -1,0 +1,6 @@
+name: mysqlutils5
+repository: mysql:5.7.40-debian
+execcommand: /bin/bash
+source: ktrouble-utils
+excludefromshare: false
+hidden: false

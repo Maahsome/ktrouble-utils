@@ -1,0 +1,6 @@
+name: mysqlutils8
+repository: mysql:8-debian
+execcommand: /bin/sh
+source: ktrouble-utils
+excludefromshare: false
+hidden: false

@@ -1,0 +1,6 @@
+name: gcloudutils
+repository: google/cloud-sdk:latest
+execcommand: /bin/bash
+source: ktrouble-utils
+excludefromshare: false
+hidden: false

@@ -1,0 +1,6 @@
+name: helm-kubectl310
+repository: dtzar/helm-kubectl:3.10
+execcommand: /bin/bash
+source: ktrouble-utils
+excludefromshare: false
+hidden: false

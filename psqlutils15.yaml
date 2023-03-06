@@ -1,0 +1,6 @@
+name: psqlutils15
+repository: postgres:15-bullseye
+execcommand: /bin/bash
+source: ktrouble-utils
+excludefromshare: false
+hidden: false

@@ -1,0 +1,6 @@
+name: curl
+repository: curlimages/curl:latest
+execcommand: /bin/sh
+source: ktrouble-utils
+excludefromshare: false
+hidden: false

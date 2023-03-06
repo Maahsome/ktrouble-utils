@@ -1,0 +1,6 @@
+name: psql-curl
+repository: barrypiccinni/psql-curl:latest
+execcommand: /bin/bash
+source: ktrouble-utils
+excludefromshare: false
+hidden: false
