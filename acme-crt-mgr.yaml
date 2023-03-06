@@ -1,0 +1,6 @@
+name: acme-crt-mgr
+repository: splicemaahs/acme-certificate-management:0.0.1
+execcommand: /bin/pwsh
+source: ktrouble-utils
+excludefromshare: false
+hidden: false

@@ -1,0 +1,6 @@
+name: awscli
+repository: amazon/aws-cli:latest
+execcommand: /bin/bash
+source: ktrouble-utils
+excludefromshare: false
+hidden: false

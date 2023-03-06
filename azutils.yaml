@@ -1,0 +1,6 @@
+name: azutils
+repository: mcr.microsoft.com/azure-cli
+execcommand: /bin/bash
+source: ktrouble-utils
+excludefromshare: false
+hidden: false

@@ -1,0 +1,7 @@
+name: alpine3
+repository: alpine:3
+execcommand: /bin/sh
+source: ktrouble-utils
+excludefromshare: false
+hidden: false
+
