@@ -1,0 +1,6 @@
+name: netshoot
+repository: nicolaka/netshoot
+execcommand: /bin/bash
+source: ktrouble-utils
+excludefromshare: false
+hidden: false
