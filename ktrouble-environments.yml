@@ -1,0 +1,8 @@
+environments:
+- name: lowers
+  repository: us-docker.pkg.dev/my-lower-repo
+  excludefromshare: false
+- name: uppers
+  repository: us-docker.pkg.dev/my-upper-repo
+  excludefromshare: true
+
