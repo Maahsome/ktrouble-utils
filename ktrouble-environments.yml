@@ -11,3 +11,7 @@ environments:
   repository: us-docker.pkg.dev/my-lower-repo
   excludefromshare: false
   source: ktrouble-utils
+- name: uppers
+  repository: us-docker.pkg.dev/my-upper-repo
+  excludefromshare: false
+  source: ktrouble-utils
