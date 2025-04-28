@@ -7,3 +7,7 @@ environments:
   repository: journey.dkr.ecr.us-west-2.amazonaws.com
   excludefromshare: false
   source: ktrouble-utils
+- name: cmaahs
+  repository: us-docker.pkg.dev/cmaahs-repo
+  excludefromshare: false
+  source: ktrouble-utils
