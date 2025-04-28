@@ -1,9 +1,9 @@
 environments:
 - name: lowers
-  repository: 8675309.dkr.ecr.us-west-2.amazonaws.com
+  repository: prince.dkr.ecr.us-west-2.amazonaws.com
   excludefromshare: false
   source: ktrouble-utils
 - name: uppers
-  repository: us-docker.pkg.dev/my-upper-repo
+  repository: journey.dkr.ecr.us-west-2.amazonaws.com
   excludefromshare: false
   source: ktrouble-utils
