@@ -1,5 +1,5 @@
 environments:
-- name: uppers
-  repository: us-docker.pkg.dev/my-upper-repo
-  excludefromshare: false
+- excludefromshare: false
+  name: lowers
+  repository: us-docker.pkg.dev/my-lower-repo
   source: ktrouble-utils
