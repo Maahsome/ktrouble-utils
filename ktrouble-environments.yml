@@ -1,9 +1,13 @@
 environments:
 - name: lowers
-  repository: us-docker.pkg.dev/my-lower-repo
+  repository: 8675309.dkr.ecr.us-west-2.amazonaws.com
   excludefromshare: false
   source: ktrouble-utils
 - name: uppers
   repository: us-docker.pkg.dev/my-upper-repo
+  excludefromshare: false
+  source: ktrouble-utils
+- name: lowers
+  repository: 8675309.dkr.ecr.us-west-2.amazonaws.com
   excludefromshare: false
   source: ktrouble-utils
