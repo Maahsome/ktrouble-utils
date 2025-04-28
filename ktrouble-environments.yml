@@ -1,1 +1,5 @@
-environments: []
+environments:
+- name: lowers
+  repository: us-docker.pkg.dev/my-lower-repo
+  excludefromshare: false
+  source: ktrouble-utils
