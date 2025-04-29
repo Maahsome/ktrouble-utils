@@ -11,9 +11,3 @@ environments:
   source: ktrouble-utils
   hidden: false
   removeupstream: false
-- name: cjmaahs
-  repository: us-docker.pkg.dev/cjmaahs-repo
-  excludefromshare: false
-  source: ktrouble-utils
-  hidden: false
-  removeupstream: false
