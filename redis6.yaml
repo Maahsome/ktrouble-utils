@@ -1,7 +1,12 @@
 name: redis6
 repository: cmaahs/redis-cli:6.2
-execcommand: /bin/sh
+execcommand: /bin/bash
 source: ktrouble-utils
+requiresecrets: false
+requireconfigmaps: false
 excludefromshare: false
 hidden: false
-
+hint: ""
+version: ""
+removeupstream: false
+environments: []
