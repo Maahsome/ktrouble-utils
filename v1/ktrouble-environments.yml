@@ -13,3 +13,10 @@ environments:
   hidden: false
   removeupstream: false
   version: v1
+- name: christmas
+  repository: us-docker.pkg.dev/christmas-repo
+  excludefromshare: false
+  source: ktrouble-utils
+  hidden: false
+  removeupstream: false
+  version: v1
