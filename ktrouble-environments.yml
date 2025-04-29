@@ -17,3 +17,9 @@ environments:
   source: ktrouble-utils
   hidden: false
   removeupstream: false
+- name: cmaahs
+  repository: us-docker.pkg.dev/cmaahs-repo
+  excludefromshare: false
+  source: ktrouble-utils
+  hidden: false
+  removeupstream: false
