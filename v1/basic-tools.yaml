@@ -1,0 +1,11 @@
+name: basic-tools
+repository: cmaahs/basic-tools:v0.0.1
+execcommand: /bin/bash
+source: ktrouble-utils
+requiresecrets: false
+requireconfigmaps: false
+excludefromshare: false
+hidden: false
+hint: A small image with curl, jq, yq, and others
+removeupstream: false
+environments: []

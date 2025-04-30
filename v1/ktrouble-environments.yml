@@ -1,0 +1,13 @@
+environments:
+- name: lowers
+  repository: prince.dkr.ecr.us-west-2.amazonaws.com
+  excludefromshare: false
+  source: ktrouble-utils
+  hidden: false
+  removeupstream: false
+- name: uppers
+  repository: journey.dkr.ecr.us-west-2.amazonaws.com
+  excludefromshare: false
+  source: ktrouble-utils
+  hidden: false
+  removeupstream: false
