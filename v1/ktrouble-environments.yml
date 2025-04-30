@@ -1,22 +1,19 @@
 environments:
 - name: lowers
-  repository: prince.dkr.ecr.us-west-2.amazonaws.com
+  repository: us-docker.pkg.dev/lowers-repo
   excludefromshare: false
   source: ktrouble-utils
   hidden: false
   removeupstream: false
-  version: v1
 - name: uppers
-  repository: journey.dkr.ecr.us-west-2.amazonaws.com
+  repository: us-docker.pkg.dev/uppers-repo
   excludefromshare: false
   source: ktrouble-utils
   hidden: false
   removeupstream: false
-  version: v1
 - name: christmas
   repository: us-docker.pkg.dev/christmas-repo
   excludefromshare: false
   source: ktrouble-utils
   hidden: false
   removeupstream: false
-  version: v1
