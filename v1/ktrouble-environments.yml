@@ -11,12 +11,6 @@ environments:
   source: ktrouble-utils
   hidden: false
   removeupstream: false
-- name: removeenv
-  repository: gcr.io/removeenv
-  excludefromshare: false
-  source: ktrouble-utils
-  hidden: false
-  removeupstream: false
 - name: noremove
   repository: gcr.io/noremove
   excludefromshare: false
