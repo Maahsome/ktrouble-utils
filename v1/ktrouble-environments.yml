@@ -11,9 +11,3 @@ environments:
   source: ktrouble-utils
   hidden: false
   removeupstream: false
-- name: noremove
-  repository: gcr.io/noremove
-  excludefromshare: false
-  source: ktrouble-utils
-  hidden: false
-  removeupstream: false
