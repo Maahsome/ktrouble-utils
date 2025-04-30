@@ -2,5 +2,9 @@ name: mysqlutils5
 repository: mysql:5.7.40-debian
 execcommand: /bin/bash
 source: ktrouble-utils
+requiresecrets: false
+requireconfigmaps: false
 excludefromshare: false
 hidden: false
+hint: A debian image with mysql 5.7.40 versioned client
+version: ""

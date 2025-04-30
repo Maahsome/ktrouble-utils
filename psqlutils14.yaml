@@ -2,5 +2,9 @@ name: psqlutils14
 repository: postgres:14-bullseye
 execcommand: /bin/bash
 source: ktrouble-utils
+requiresecrets: false
+requireconfigmaps: false
 excludefromshare: false
 hidden: false
+hint: A debian image with a version 14 psql client
+version: ""
