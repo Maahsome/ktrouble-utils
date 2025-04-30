@@ -6,7 +6,6 @@ requiresecrets: false
 requireconfigmaps: false
 excludefromshare: false
 hidden: false
-hint: ""
-version: v1
+hint: A debian image with mysql 8.n.n versioned client
 removeupstream: false
 environments: []

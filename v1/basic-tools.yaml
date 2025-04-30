@@ -6,7 +6,6 @@ requiresecrets: false
 requireconfigmaps: false
 excludefromshare: false
 hidden: false
-hint: ""
-version: v1
+hint: A small image with curl, jq, yq, and others
 removeupstream: false
 environments: []

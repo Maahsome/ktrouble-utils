@@ -6,7 +6,6 @@ requiresecrets: false
 requireconfigmaps: false
 excludefromshare: false
 hidden: false
-hint: ""
-version: v1
+hint: Image has a psql client and curl installed
 removeupstream: false
 environments: []

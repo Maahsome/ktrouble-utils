@@ -6,7 +6,6 @@ requiresecrets: false
 requireconfigmaps: false
 excludefromshare: false
 hidden: false
-hint: ""
-version: v1
+hint: Image has basic DNS investigation tools like nslookup and dig
 removeupstream: false
 environments: []

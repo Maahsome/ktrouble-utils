@@ -6,7 +6,6 @@ requiresecrets: false
 requireconfigmaps: false
 excludefromshare: false
 hidden: false
-hint: ""
-version: v1
+hint: An alpine image with redis-cli v6.2 installed
 removeupstream: false
 environments: []

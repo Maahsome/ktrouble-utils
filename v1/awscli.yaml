@@ -6,7 +6,6 @@ requiresecrets: false
 requireconfigmaps: false
 excludefromshare: false
 hidden: false
-hint: ""
-version: v1
+hint: The "latest" tagged aws-cli image from amazon
 removeupstream: false
 environments: []

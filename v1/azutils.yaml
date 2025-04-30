@@ -6,7 +6,6 @@ requiresecrets: false
 requireconfigmaps: false
 excludefromshare: false
 hidden: false
-hint: ""
-version: v1
+hint: The "latest" tagged azure-cli image from microsoft
 removeupstream: false
 environments: []
