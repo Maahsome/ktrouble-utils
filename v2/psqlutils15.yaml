@@ -1,0 +1,13 @@
+name: psqlutils15
+image: postgres
+execcommand: /bin/bash
+source: ""
+requiresecrets: false
+requireconfigmaps: false
+excludefromshare: false
+hidden: false
+hint: A debian image with a version 15 psql client
+removeupstream: false
+environments: []
+tags:
+- 15-bullseye

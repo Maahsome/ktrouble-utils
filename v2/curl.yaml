@@ -1,0 +1,13 @@
+name: curl
+image: curlimages/curl
+execcommand: /bin/sh
+source: ""
+requiresecrets: false
+requireconfigmaps: false
+excludefromshare: false
+hidden: false
+hint: Just the "latest" curl command in a small image
+removeupstream: false
+environments: []
+tags:
+- latest

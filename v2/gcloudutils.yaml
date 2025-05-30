@@ -1,0 +1,13 @@
+name: gcloudutils
+image: google/cloud-sdk
+execcommand: /bin/bash
+source: ""
+requiresecrets: false
+requireconfigmaps: false
+excludefromshare: false
+hidden: false
+hint: The "latest" tagged cloud-sdk image from google
+removeupstream: false
+environments: []
+tags:
+- latest

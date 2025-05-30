@@ -1,0 +1,13 @@
+environments:
+- name: lowers
+  repository: us-docker.pkg.dev/lowers-repo
+  excludefromshare: false
+  source: ktrouble-utils
+  hidden: false
+  removeupstream: false
+- name: uppers
+  repository: us-docker.pkg.dev/uppers-repo
+  excludefromshare: false
+  source: ktrouble-utils
+  hidden: false
+  removeupstream: false
