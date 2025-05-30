@@ -1,0 +1,14 @@
+name: psqlutils
+image: postgres
+execcommand: /bin/bash
+source: ktrouble-utils
+requiresecrets: false
+requireconfigmaps: false
+excludefromshare: false
+hidden: false
+hint: ""
+removeupstream: false
+environments: []
+tags:
+- 14-bullseye
+- 15-bullseye
