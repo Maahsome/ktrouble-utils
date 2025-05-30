@@ -6,7 +6,7 @@ requiresecrets: false
 requireconfigmaps: false
 excludefromshare: false
 hidden: false
-hint: ""
+hint: A debian image with mysql client
 removeupstream: false
 environments: []
 tags:
