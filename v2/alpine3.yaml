@@ -1,0 +1,13 @@
+name: alpine3
+image: alpine
+execcommand: /bin/sh
+source: ktrouble-utils
+requiresecrets: false
+requireconfigmaps: false
+excludefromshare: false
+hidden: false
+hint: ""
+removeupstream: false
+environments: []
+tags:
+- "3"

@@ -1,0 +1,13 @@
+name: netshoot
+image: nicolaka/netshoot
+execcommand: /bin/bash
+source: ktrouble-utils
+requiresecrets: false
+requireconfigmaps: false
+excludefromshare: false
+hidden: false
+hint: ""
+removeupstream: false
+environments: []
+tags:
+- latest

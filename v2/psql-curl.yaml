@@ -1,0 +1,13 @@
+name: psql-curl
+image: barrypiccinni/psql-curl
+execcommand: /bin/bash
+source: ktrouble-utils
+requiresecrets: false
+requireconfigmaps: false
+excludefromshare: false
+hidden: false
+hint: Image has a psql client and curl installed
+removeupstream: false
+environments: []
+tags:
+- latest

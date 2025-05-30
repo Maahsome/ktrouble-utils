@@ -1,0 +1,13 @@
+name: dnsutils
+image: gcr.io/kubernetes-e2e-test-images/dnsutils
+execcommand: /bin/sh
+source: ktrouble-utils
+requiresecrets: false
+requireconfigmaps: false
+excludefromshare: false
+hidden: false
+hint: Image has basic DNS investigation tools like nslookup and dig
+removeupstream: false
+environments: []
+tags:
+- "1.3"

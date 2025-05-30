@@ -1,0 +1,13 @@
+name: helm-kubectl310
+image: dtzar/helm-kubectl
+execcommand: /bin/bash
+source: ktrouble-utils
+requiresecrets: false
+requireconfigmaps: false
+excludefromshare: false
+hidden: false
+hint: ""
+removeupstream: false
+environments: []
+tags:
+- "3.10"
